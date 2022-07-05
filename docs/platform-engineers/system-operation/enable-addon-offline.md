@@ -70,7 +70,7 @@ There is no need to modify the addon files for enabling this addon, you only nee
 |Images|  
 | :----:|
 |oamdev/vela-apiserver:v1.2.3|
-|oamdev/oamdev/velaux::v1.2.3|
+|oamdev/oamdev/velaux:v1.2.3|
 
 eg：
 
